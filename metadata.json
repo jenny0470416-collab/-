@@ -1,0 +1,6 @@
+{
+  "name": "정밀 계산기",
+  "description": "표준 및 공학용 연산, 계산 기록 테이프, 단위 변환을 지원하는 정밀 계산기 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
